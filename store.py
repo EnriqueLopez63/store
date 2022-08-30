@@ -17,5 +17,12 @@ mensClothes = ["Hennything is possible Tshirt-$19.99" , "Mens Summer games Cargo
 
 womensClothes = ["Somerset Maxidress Anthropologie in white-$168" , "Balenciaga Womens flower jersey Cycling dress-$3,190" , "Tu Lize knitted sleeves oversized jacket-$1,086" , "Dior mid lengthe shirt dress yellow silk chiffon multi color pixel zodiac-5,000" , "Womens White Auburn Dress-$433.00" , "Black top with stars-$98" , "Old couch pattern mini dress-"]
 
+tech = ["Meta Quest 2 Vr-$399.99 " , "Acer Swift laptop-$1,099.99" , "Flagship chromebook-$94.99" , "Google pixel 6a-$369.99" , "Samsung Galaxy A10e-$102.99" , "Iphone 11pro-$524.95" , "Intel i7cpu-$321.97" , "Hp pavillion32-$2,399.99" , "Lphone 10-$5" , "Samsung odyysey ark monitor-$3,499.99"]
+
+bakery = ["GlazedDonut-$.99" , "ChocolateDonut-$.99" , "LoafofBread-$4.50" , "Sugar poudered poudered sugar that is poudered donuts-$41.97" , "ChocolateChipCookie-$1.25" , "SugarCookie-$1"
+, "Brownie-$1.25" , "Pizza-$12" , "Cake-$9" , "Cupcake-$.75"]
+
+beauty = ["red lipstick-$7" , "BlueLipstick-$5" , "orangeLipstick-$4" , "pinkLipstick-7" , "Mascara-$20" , "LashExtensions-$15" , "NoseSurgery-$5,000" , "greenWig-$25" , "deoderant-$2" "Shampoo-$10"] 
+
 
 
